@@ -1,4 +1,4 @@
 baseURL = 'https://RICOMP4.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Emeric Pelletier'
 theme = 'ananke'
