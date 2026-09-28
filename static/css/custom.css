@@ -1,0 +1,46 @@
+/* Fond de page plus doux */
+body {
+  background-color: #0f1117;
+  color: #e6edf3;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* En-tête avec un dégradé sombre et moderne */
+header.cover {
+  background: linear-gradient(135deg, #0d1117 0%, #161b22 100%) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Cartes et articles stylisés */
+article, .bg-white {
+  background-color: #161b22 !important;
+  color: #c9d1d9 !important;
+  border: 1px solid #30363d !important;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Titres */
+h1, h2, h3 {
+  color: #58a6ff !important;
+  letter-spacing: -0.5px;
+}
+
+/* Liens */
+a {
+  color: #58a6ff;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #79c0ff;
+}
+
+/* Photos arrondies et bien intégrées */
+img {
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+  max-width: 100%;
+  height: auto;
+}

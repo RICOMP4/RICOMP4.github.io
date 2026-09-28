@@ -1,4 +1,12 @@
 baseURL = 'https://RICOMP4.github.io/'
-languageCode = 'en-us'
+languageCode = 'fr-fr'
 title = 'À propos de moi'
 theme = 'ananke'
+
+[params]
+  text_color = "dark-gray"
+  background_color_class = "bg-near-white"
+  # Couleur de la barre de navigation
+  cover_color = "navy"
+  # Permet de charger un CSS personnalisé
+  custom_css = ["css/custom.css"]
