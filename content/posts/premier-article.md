@@ -4,7 +4,7 @@ date: 2026-09-28
 draft: false
 ---
 
-![Émeric Pelletier](/images/moi.jpg)
+![Émeric Pelletier](images/moi.jpg)
 
 Bienvenue sur mon site !
 
