@@ -1,4 +1,4 @@
-baseURL = 'https://RICOMP4.github.io/'
+baseURL = 'https://emeric-pelletier.github.io/'
 languageCode = 'fr-fr'
 title = 'À propos de moi'
 theme = 'ananke'
