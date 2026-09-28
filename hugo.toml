@@ -4,9 +4,7 @@ title = 'À propos de moi'
 theme = 'ananke'
 
 [params]
-  text_color = "dark-gray"
-  background_color_class = "bg-near-white"
-  # Couleur de la barre de navigation
-  cover_color = "navy"
-  # Permet de charger un CSS personnalisé
+  text_color = "black-80"
+  background_color_class = "bg-white"
+  cover_color = "blue"
   custom_css = ["css/custom.css"]
